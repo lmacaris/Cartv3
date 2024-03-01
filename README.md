@@ -41,5 +41,5 @@ document.addEventListener('click', e => {
         pintarCarrito();
     }
 ```
-## Try Shopping cart at: 
+## Try Shopping cart at: https://lmacaris.github.io/Cartv3/
 ### Have a nice day. Thank you for stopping by!
